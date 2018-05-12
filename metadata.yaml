@@ -1,16 +1,22 @@
 _repo: Lettres-du-prince-de-Metternich-a-la-comtesse-de-Lieven-1818-1819-1818-1819_50708
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Hanoteau, Jean
       gutenberg_agent_id: '46054'
       url: http://www.gutenberg.org/2009/agents/46054
+covers:
+- cover_type: archival
+  image_path: 50708-h/images/cover.jpg
 creator:
   author:
     agent_name: Metternich, Klemens Wenzel  von
     gutenberg_agent_id: '46053'
     url: http://www.gutenberg.org/2009/agents/46053
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50708#Lettres-du-prince-de-Metternich-a-la-comtesse-de-Lieven-1818-1819-1818-1819
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Biographie, Mémoires, Journal intime, Correspondance
